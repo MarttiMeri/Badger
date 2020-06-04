@@ -18,9 +18,11 @@ Businesses can enter their general information and catalog of products and/or se
 Customers can rate businesses and products based on the quality of the item and the safety of the process of providing the service or delivering the product.
 
 
-Implememntation:
+Implementation:
 ----------------
 
 Python Flask app running on Heroku cloud.
+
+stage and pro (production) versions.
 
 
